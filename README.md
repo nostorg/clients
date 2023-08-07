@@ -12,9 +12,9 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 
 ### Legend
 
-- ✅ : fully supported, or almost
+- ✅ : mostly supported
 - 🟡 : partially supported
-- ❌ : not supported
+- ❌ : mostly not supported
 - `?` : checked but unclear
 - <code>&nbsp;</code> : not yet checked
 - [NIPs](https://github.com/nostr-protocol/nips)
