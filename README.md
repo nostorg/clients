@@ -5,8 +5,8 @@ WIP compilation of nostr clients and supported features.
 - ✅ : fully supported, or almost
 - 🟡 : partially supported
 - ❌ : not supported
-- ? : checked but unclear
-- (blank) : not yet checked
+- `?` : checked but unclear
+- <code>&nbsp;</code> : not yet checked
 
 ### Table
 
