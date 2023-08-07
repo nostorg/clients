@@ -2,11 +2,13 @@ WIP compilation of nostr clients and supported features.
 
 Contributions welcome. Recommend editing/formatting with [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables).
 
-### Similar project(s)
+### Similar projects
 
 - <https://github.com/aljazceru/awesome-nostr>
 - <https://github.com/vishalxl/Nostr-Clients-Features-List>
 - [Nostr Client Comparison Sheet (Google Docs)](https://docs.google.com/spreadsheets/d/1GjfN_eMiEywqXfKFHZMw4rLnoQLBXYEyl2NCEtsCXWw/edit)
+- <https://www.nostrapps.com/>
+- <https://nostrapp.link/>
 
 ### Legend
 
