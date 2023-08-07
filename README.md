@@ -6,6 +6,7 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 
 - <https://github.com/aljazceru/awesome-nostr>
 - <https://github.com/vishalxl/Nostr-Clients-Features-List>
+- [Nostr Client Comparison Sheet (Google Docs)](https://docs.google.com/spreadsheets/d/1GjfN_eMiEywqXfKFHZMw4rLnoQLBXYEyl2NCEtsCXWw/edit)
 
 ### Legend
 
