@@ -2,6 +2,11 @@ WIP compilation of nostr clients and supported features.
 
 Contributions welcome. Recommend editing/formatting with [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables).
 
+### Similar project(s)
+
+- <https://github.com/aljazceru/awesome-nostr>
+- <https://github.com/vishalxl/Nostr-Clients-Features-List>
+
 ### Legend
 
 - ✅ : fully supported, or almost
@@ -9,6 +14,7 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 - ❌ : not supported
 - `?` : checked but unclear
 - <code>&nbsp;</code> : not yet checked
+- [NIPs](https://github.com/nostr-protocol/nips)
 
 ### Table
 
