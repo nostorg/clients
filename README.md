@@ -49,3 +49,10 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 | [YakiHonne](https://yakihonne.com/) | ? | ? | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Flycat](https://flycat.club/) | [github](https://github.com/digi-monkey/flycat-web) | 0.2.0 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [noStrudel](https://nostrudel.ninja/) | [github](https://github.com/hzrd149/nostrudel) | ? | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+### Notes
+
+- 🟡 feature may be fully supported on some platforms but not on others (e.g. zaps on iOS)
+- 🟡 macOS support for iOS apps that can run on Apple Silicon
+- 🟡 mute support (NIP-51) for clients that use kind 30000 parameterized lists instead of the kind 10000 list
+- 🟡 reactions support for clients that only allow one kind of character/emoji
