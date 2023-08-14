@@ -12,12 +12,13 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 
 ### Legend
 
+- [NIPs](https://github.com/nostr-protocol/nips)
 - ✅ : mostly supported
 - 🟡 : partially supported
 - ❌ : mostly not supported
 - `?` : checked but unclear
 - <code>&nbsp;</code> : not yet checked
-- [NIPs](https://github.com/nostr-protocol/nips)
+- ⚡ : paid feature
 
 ### Table
 
@@ -28,7 +29,7 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 | Amethyst | [github](https://github.com/vitorpamplona/amethyst) | 0.72.2 | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ? | ? |  | ✅ |  |  |  |  |  | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |  | ❌ | ✅ | ✅ | ✅ |  | ✅ | ✅ |  | ❌ |  |  | ❌ | ❌ | ✅ |  |
 | Nostros | [github](https://github.com/KoalaSat/nostros) | 0.3.2.5 | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ? | ? | ? |  |  |  |  |  |  |  |  | ? | ? |  | ✅ | ? | ✅ | ✅ | ❌ | ? | ? |  | ✅ | ? | ? | ? |  |  |  |  |  |  |  |  |  |  |  |
 | [Plebstr](https://plebstr.com/) | ? | 0.7.6 (56) | ❌ | ❌ | ❌ | 🟡 | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |  |  |  |  |  | ❌ | ❌ |  | ✅ | ✅ |  | 🟡 | 🟡 | ✅ | ✅ | ❌ | ❌ | ? |  | ❌ | ? | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |
-| [Current](https://app.getcurrent.io/) | [github](https://github.com/starbackr-com/current) | 0.0.9 (14) | ❌ | ❌ | ❌ | 🟡 | ✅ | ✅ | ✅ | ❌ | ? | ? |  | ❌ |  |  |  | ? | ✅ |  | ✅ | ✅ |  | ✅ | 🟡 | ✅ | ✅ | ❌ | ❌ | ? |  | ❌ | ? | ❌ | ✅ |  |  |  |  |  |  |  |  |  |  |  |
+| [Current](https://app.getcurrent.io/) | [github](https://github.com/starbackr-com/current) | 0.0.9 (14) | ❌ | ❌ | ❌ | 🟡 | ✅ | ✅ | ⚡ | ❌ | ? | ? |  | ❌ |  |  |  | ? | ⚡ |  | ✅ | ✅ |  | ⚡ | 🟡 | ✅ | ✅ | ❌ | ❌ | ? |  | ❌ | ? | ❌ | ✅ |  |  |  |  |  |  |  |  |  |  |  |
 | [Damus](https://damus.io/) | [github](https://github.com/damus-io/damus) | 1.6 (11) | ❌ | ❌ | ❌ | 🟡 | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |  | ✅ |  |  |  | ✅ | 🟡 | ❌ | ✅ | ✅ |  | 🟡 | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |  | ✅ | ? | ❌ | ? | 🟡 | ❌ | ❌ |  |  |  |  |  |  | ✅ |  |
 | [Nos](https://www.nos.social/) | [github](https://github.com/planetary-social/nos) | 0.1 (65) | ❌ | ❌ | ❌ | 🟡 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |  |  |  |  | ❌ | ? |  | ✅ | ✅ |  | ? | 🟡 | ✅ | ❌ | ❌ | ❌ | ? |  | ❌ | ? | ❌ | ❌ | ? |  |  |  |  |  |  |  |  |  |  |
 | [Nostur](https://nostur.com/) | [github](https://github.com/nostur-com/nostur-ios-public) | 1.5.0 (147) | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ? | ? |  |  |  |  | ❌ | ❌ |  | ✅ | ✅ |  | 🟡 | 🟡 | ✅ | ✅ | ❌ | ❌ | ✅ |  | ✅ | ? | ❌ | ✅ | ✅ |  |  |  |  |  |  |  |  |  |  |
@@ -37,7 +38,7 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 | [Iris](https://iris.to/) | [github](https://github.com/irislib/iris-messenger) | 0.2.1 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | 🟡 | ❌ | ✅ |  |  | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ |  | ✅ | 🟡 | ✅ | ✅ | ❌ | ? | ? |  | ❌ | ? | ❌ | ? | ✅ | ❌ | ❌ |  |  |  |  |  |  |  |  |
 | [Arcade](https://thearcapp.com/) | [github](https://github.com/ArcadeLabsInc/arcade) | 0.3.2 (1) | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ? |  |  |  |  |  |  |  |  | ❌ | ❌ |  | ❌ | ❌ | ❌ | ✅ | ✅ | ? | ? |  | ? | ? | ? |  |  |  |  |  |  |  |  |  |  |  |  |
 | [0xchat](https://0xchat.com/) | [github](https://github.com/0xchat-app/0xchat-core) | 1.1.4 | ❌ | ❌ | ❌ | 🟡 | ✅ | ✅ | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ❌ | ✅ | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [ZBD Social](https://blog.zebedee.io/zbd-social-app/) | ? |  |  |  |  |  |  |  | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [ZBD Social](https://blog.zebedee.io/zbd-social-app/) | ? |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Snort](https://snort.social/) | [github](https://github.com/v0l/snort) | 0.1.12 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | N/A | ❌ | ✅ |  |  | ✅ | ✅ |  | ? |  | ✅ | ❌ | ✅ |  | ✅ | 🟡 | ✅ | ✅ | ❌ | ? | ❌ | ✅ | ✅ | ? | ? | ✅ | ✅ | ✅ | ❌ |  |  |  |  |  |  | ✅ |  |
 | [Coracle](https://coracle.social/) | [github](https://github.com/coracle-social/coracle) | 0.3.1 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | N/A | 🟡 | ✅ |  |  | ✅ | ? | ❌ | ❌ |  | ❌ | ❌ | ✅ |  | ✅ | 🟡 | ✅ | ✅ | ✅ | ? | ✅ |  | ? | ? | ❌ | ❌ | 🟡 | ❌ | ❌ |  |  |  |  |  |  | ? | ✅ |
 | [Satellite](https://satellite.earth/) | [github](https://github.com/lovvtide/satellite-web) | ? | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | N/A | ? | ? | ✅ |  |  |  |  | ❌ |  |  | ❌ | ❌ |  | 🟡 | 🟡 | ✅ | ✅ | ❌ | ✅ | ❌ |  | ❌ | ? | ❌ | ❌ | 🟡 |  |  |  |  |  |  |  |  |  |  |
