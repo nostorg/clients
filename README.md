@@ -49,6 +49,8 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 | [YakiHonne](https://yakihonne.com/) | ? | ? | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Flycat](https://flycat.club/) | [github](https://github.com/digi-monkey/flycat-web) | 0.2.0 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [noStrudel](https://nostrudel.ninja/) | [github](https://github.com/hzrd149/nostrudel) | ? | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Oddbean](https://oddbean.com/) | ? | ? | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ❌ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [FreeFrom](https://freefrom.space/) | ? |  | 🟡 | ❌ | ❌ | ❌ | ✅ | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ### Notes
 
