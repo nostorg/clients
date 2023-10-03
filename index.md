@@ -26,7 +26,7 @@ Contributions welcome. Recommend editing/formatting with [Markdown Tables Genera
 
 ### Table
 
-<div style="overflow-x:auto;">
+<div class="breakout" style="overflow-x:auto;">
 <table>
   {% for row in site.data.clients %}
     {% if forloop.first %}

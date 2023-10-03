@@ -339,3 +339,14 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+
+/**
+ * Allow content to break out from div container
+ * https://stackoverflow.com/a/37964247
+ */
+.breakout {
+  margin:1em -99%; /* old browsers fallback */
+  margin:1em calc(50% - 45vw);
+  // background-color:rgba(255,0,255,0.5)
+}
