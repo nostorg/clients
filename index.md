@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 WIP compilation of nostr clients and supported features.
 
 Contributions welcome. Recommend editing/formatting with [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables).

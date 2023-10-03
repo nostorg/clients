@@ -1,0 +1,13 @@
+title: Feature Matrix for Nostr Clients
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+remote_theme: jekyll/minima@2863624b903b17f838d6ce8d2f77900fa9d3c864
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: auto
+
+exclude:
+  - README.md
