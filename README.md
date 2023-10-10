@@ -1,6 +1,6 @@
 ## Viewing
 
-View the deployed webpage at the link in the sidebar.
+View the deployed webpage [here](https://nostorg.github.io/clients/) or via the link in the sidebar.
 
 ## Contributing
 
