@@ -31,15 +31,15 @@ Contribute your findings: <https://github.com/nostorg/clients>
 - 🟡 : partially supported or nonstandard implementation
 - ❌ : mostly not supported
 - ⚡ : paid feature
-- `?` : checked but unclear
-- <code>&nbsp;</code> : not yet checked
+- `?` : reviewed but unclear
+- <code>&nbsp;</code> : not yet reviewed
 
-### Notes
+### Criteria for ✅
 
-- 🟡 feature may be fully supported on some platforms but not on others (e.g. zaps on iOS)
-- 🟡 macOS support for iOS apps that can run on Apple Silicon
-- 🟡 mute support (NIP-51) for clients that use kind 30000 parameterized lists instead of the kind 10000 list
-- 🟡 reactions support for clients that only allow one kind of character/emoji
+- macOS: Has a fully native desktop macOS app, not just a mobile app built for Apple Silicon.
+- Zaps: Can view who zapped what amounts; can process zaps via QR code or external application.
+- Reactions: Can view who reacted with which reactions; can react with any custom emoji.
+- Mute list: Client uses kind 30000 parameterized lists, not a kind 10000 list.
 
 ### Similar projects
 
