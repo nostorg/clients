@@ -1,0 +1,6 @@
+{
+    "csv-edit.enableWrapping": false,
+    "csv-edit.initiallyFixedColumnsLeft": 1,
+    "csv-edit.initiallyFixedRowsTop": 1,
+    "csv-edit.retainQuoteInformation": false
+}
