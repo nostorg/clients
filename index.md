@@ -45,6 +45,7 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 - Relay Info: Shows all available relay metadata for all connected relays.
 - Search: On connected relays, returns any existing user by username or NIP-05, and returns any existing note by content.
 - Push Notifications: Received on device without requiring the client software to be actively running.
+- Machine Translation: Can do offline translation of notes with configurable language models.
 - Multiple Accounts: Saves multiple profiles to switch between views or logins for multiple accounts with public keys, private keys, or extension (NIP-07).
 - macOS: Has a fully native desktop macOS app, not just a mobile app that can run on Apple Silicon.
 
