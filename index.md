@@ -44,6 +44,7 @@ Contribute your findings: <https://github.com/nostorg/clients>
 - User Relays: Shows complete relay list for other users; has an option for disabling write access on each connected relay.
 - Event Relays: Shows all connected relays where an event exists.
 - Search: On connected relays, returns any existing user by username or NIP-05, and returns any existing note by content.
+- Multiple Accounts: Saves multiple profiles to switch between views or logins for multiple accounts with public keys, private keys, or extension (NIP-07).
 
 ### Similar projects
 
