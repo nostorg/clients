@@ -1,5 +1,6 @@
-_site
-.sass-cache
+.gitattributes
 .jekyll-cache
 .jekyll-metadata
+.sass-cache
+_site
 vendor
