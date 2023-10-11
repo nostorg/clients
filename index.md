@@ -38,6 +38,8 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 
 - Zaps: Can view who zapped what amounts; can process zaps via integrated wallet, external application, or QR code.
 - Reactions: Can view who reacted with which reactions; can react with any custom emoji.
+- Local Feeds: Can view all recent notes from connected relays and filter by relay.
+- Algorithmic Feeds: Can view custom feeds determined by some open source or configurable algorithm (e.g. "trending").
 - Mute List: Uses the kind 10000 list, not a kind 30000 parameterized list.
 - Long-form Content: Properly renders markdown; updated events are fully replaced or the update history is clearly indicated.
 - User Relays: Shows complete relay list for other users; has an option for disabling write access on each connected relay.
