@@ -42,6 +42,7 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 - Long-form Content: Properly renders markdown; updated events are fully replaced or the update history is clearly indicated.
 - User Relays: Shows complete relay list for other users; has an option for disabling write access on each connected relay.
 - Event Relays: Shows all connected relays where an event exists.
+- Relay Info: Shows all available relay metadata for all connected relays.
 - Search: On connected relays, returns any existing user by username or NIP-05, and returns any existing note by content.
 - Multiple Accounts: Saves multiple profiles to switch between views or logins for multiple accounts with public keys, private keys, or extension (NIP-07).
 - macOS: Has a fully native desktop macOS app, not just a mobile app that can run on Apple Silicon.
