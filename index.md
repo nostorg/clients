@@ -36,7 +36,6 @@ Contribute your findings: <https://github.com/nostorg/clients>
 
 ### Criteria for ✅
 
-- macOS: Has a fully native desktop macOS app, not just a mobile app built for Apple Silicon.
 - Zaps: Can view who zapped what amounts; can process zaps via QR code or external application.
 - Reactions: Can view who reacted with which reactions; can react with any custom emoji.
 - Mute List: Uses the kind 10000 list, not a kind 30000 parameterized list.
@@ -45,6 +44,7 @@ Contribute your findings: <https://github.com/nostorg/clients>
 - Event Relays: Shows all connected relays where an event exists.
 - Search: On connected relays, returns any existing user by username or NIP-05, and returns any existing note by content.
 - Multiple Accounts: Saves multiple profiles to switch between views or logins for multiple accounts with public keys, private keys, or extension (NIP-07).
+- macOS: Has a fully native desktop macOS app, not just a mobile app that can run on Apple Silicon.
 
 ### Similar projects
 
