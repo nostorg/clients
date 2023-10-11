@@ -36,7 +36,7 @@ Contribute your findings: <https://github.com/nostorg/clients>
 
 ### Criteria for ✅
 
-- Zaps: Can view who zapped what amounts; can process zaps via QR code or external application.
+- Zaps: Can view who zapped what amounts; can process zaps via integrated wallet, external application, or QR code.
 - Reactions: Can view who reacted with which reactions; can react with any custom emoji.
 - Mute List: Uses the kind 10000 list, not a kind 30000 parameterized list.
 - Long-form Content: Properly renders markdown; updated events are fully replaced or the update history is clearly indicated.
