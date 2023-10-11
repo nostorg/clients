@@ -4,7 +4,7 @@ layout: home
 
 Compendium of nostr clients and known features.
 
-Contribute your findings: <https://github.com/nostorg/clients>
+Contribute updates on github: <https://github.com/nostorg/clients>
 
 <div class="breakout" style="overflow-x:auto;">
 <table>
