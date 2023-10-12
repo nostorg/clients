@@ -28,10 +28,10 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 
 - [NIPs](https://github.com/nostr-protocol/nips)
 - ✅ : mostly supported
-- 🟡 : partially supported or nonstandard implementation
+- 🟡 : partially supported
 - ❌ : mostly not supported
 - ⚡ : paid feature
-- `?` : reviewed but unclear
+- `?` : reviewed but inconclusive
 - <code>&nbsp;</code> : not yet reviewed
 
 ### Criteria for ✅
