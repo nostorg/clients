@@ -36,6 +36,8 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 
 ### Criteria for ✅
 
+Any column with at least one 🟡 entry should have some criteria listed here.
+
 - Zaps: Can view who zapped what amounts; can process zaps via integrated wallet, external application, or QR code.
 - Reactions: Can view who reacted with which reactions; can react with any custom emoji.
 - Local Feeds: Can view all recent notes from connected relays and filter by relay.
