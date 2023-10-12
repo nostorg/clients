@@ -24,7 +24,7 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 </table>
 </div>
 
-### Legend
+## Legend
 
 - [NIPs](https://github.com/nostr-protocol/nips)
 - ✅ : mostly supported
@@ -34,7 +34,7 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 - `?` : reviewed but inconclusive
 - <code>&nbsp;</code> : not yet reviewed
 
-### Criteria for ✅
+## Criteria for ✅
 
 Any column with at least one 🟡 entry should have some criteria listed here.
 
@@ -53,7 +53,7 @@ Any column with at least one 🟡 entry should have some criteria listed here.
 - Multiple Accounts: Saves multiple profiles to switch between views or logins for multiple accounts with public keys, private keys, or extension (NIP-07).
 - macOS: Has a fully native desktop macOS app, not just a mobile app that can run on Apple Silicon.
 
-### Similar projects
+## Similar projects
 
 - <https://github.com/aljazceru/awesome-nostr>
 - <https://github.com/vishalxl/Nostr-Clients-Features-List>
