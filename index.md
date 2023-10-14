@@ -38,7 +38,7 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 
 Any column with at least one 🟡 entry should have some criteria listed here.
 
-- Zaps: Can view who zapped what amounts; can process zaps via integrated wallet, external application, or QR code.
+- Zaps: Can view who zapped what amounts on notes; can zap notes and profiles via integrated wallet, external application, or QR code.
 - Reactions: Can view who reacted with which reactions; can react with any custom emoji.
 - Local Feeds: Can view all recent notes from connected relays and filter by relay.
 - Algorithmic Feeds: Can view custom feeds determined by some open source or configurable algorithm (e.g. "trending").
