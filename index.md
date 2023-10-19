@@ -46,10 +46,10 @@ Any column with at least one 🟡 entry should have some criteria listed here.
 - Mute List: Reads from and writes to the kind 10000 list, not a kind 30000 parameterized list.
 - Pins: Reads from and writes to the kind 10001 list, not a kind 30001 parameterized list.
 - Bookmarks: Reads from and writes to a kind 30001 parameterized list.
-- Long-form Content: Properly renders markdown; updated events are fully replaced or the update history is clearly indicated.
-- User Relays: Shows complete relay list for other users; has an option for disabling write access on each connected relay.
+- Relay List: Reads from and writes to the kind 10002 relay list; DOES NOT write relay list changes to the kind 3 contact list; shows relay lists for other users; can toggle read/write access for each connected relay.
 - Event Relays: Shows all connected relays where an event exists.
 - Relay Info: Shows all available relay metadata for all connected relays.
+- Long-form Content: Properly renders markdown; updated events are fully replaced or the update history is clearly indicated.
 - Search: On connected relays, returns any existing user by username or NIP-05, and returns any existing note by content.
 - Push Notifications: Received on device without requiring the client software to be actively running.
 - Machine Translation: Can do offline translation of notes with configurable language models.
