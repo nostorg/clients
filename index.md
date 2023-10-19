@@ -6,7 +6,7 @@ Compendium of nostr clients and known features.
 
 Contribute updates on github: <https://github.com/nostorg/clients>
 
-<div class="breakout" style="overflow-x:auto;">
+<div class="bigtable">
 <table>
   {% for row in site.data.clients %}
     {% if forloop.first %}

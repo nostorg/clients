@@ -341,12 +341,39 @@
 }
 
 
+
 /**
- * Allow content to break out from div container
- * https://stackoverflow.com/a/37964247
+ * Big table, breakout from container, freeze row/column
  */
-.breakout {
+.bigtable {
+  // Allow content to break out from div container
+  // https://stackoverflow.com/a/37964247
   margin:1em -99%; /* old browsers fallback */
   margin:1em calc(50% - 45vw);
-  // background-color:rgba(255,0,255,0.5)
+  margin-top: 50px;
+  margin-bottom: 50px;
+  overflow: auto;
+  height: 700px;
+}
+
+// freeze first column
+.bigtable td:first-child {
+  position: sticky;
+  left: 0;
+  background-color: $background-color;
+}
+
+// freeze first row
+.bigtable th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+// freeze overlapping corner region
+.bigtable th:first-child {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 2;
 }
