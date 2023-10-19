@@ -43,7 +43,9 @@ Any column with at least one 🟡 entry should have some criteria listed here.
 - Direct Messages: Can view and decrypt all past conversations; can encrypt and send new messages.
 - Local Feeds: Can view all recent notes from connected relays and filter by relay.
 - Algorithmic Feeds: Can view custom feeds determined by some open source or configurable algorithm (e.g. "trending").
-- Mute List: Uses the kind 10000 list, not a kind 30000 parameterized list.
+- Mute List: Reads from and writes to the kind 10000 list, not a kind 30000 parameterized list.
+- Pins: Reads from and writes to the kind 10001 list, not a kind 30001 parameterized list.
+- Bookmarks: Reads from and writes to a kind 30001 parameterized list.
 - Long-form Content: Properly renders markdown; updated events are fully replaced or the update history is clearly indicated.
 - User Relays: Shows complete relay list for other users; has an option for disabling write access on each connected relay.
 - Event Relays: Shows all connected relays where an event exists.
