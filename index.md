@@ -40,6 +40,7 @@ Any column with at least one 🟡 entry should have some criteria listed here.
 
 - Zaps: Can view who zapped what amounts on notes; can zap notes and profiles via integrated wallet, external application, or QR code.
 - Reactions: Can view who reacted with which reactions; can react with any custom emoji.
+- Event Deletion: Can delete own notes and undo reactions by deletion.
 - Direct Messages: Can view and decrypt all past conversations; can encrypt and send new messages.
 - Local Feeds: Can view all recent notes from connected relays and filter by relay.
 - Algorithmic Feeds: Can view custom feeds determined by some open source or configurable algorithm (e.g. "trending").
