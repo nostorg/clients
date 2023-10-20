@@ -39,7 +39,7 @@ Contribute updates on github: <https://github.com/nostorg/clients>
 Any column with at least one 🟡 entry should have some criteria listed here.
 
 - Zaps: Can view who zapped what amounts on notes; can zap notes and profiles via integrated wallet, external application, or QR code.
-- Reactions: Can view who reacted with which reactions; can react with any custom emoji.
+- Reactions: Can view who reacted with which reactions; can react with any unicode emoji.
 - Event Deletion: Can delete own notes and undo reactions by deletion.
 - Direct Messages: Can view and decrypt all past conversations; can encrypt and send new messages.
 - Local Feeds: Can view all recent notes from connected relays and filter by relay.
