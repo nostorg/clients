@@ -1,0 +1,49 @@
+client: Iris (old)
+site: https://old.iris.to/
+repo: https://github.com/irislib/iris-messenger
+latest: 0.2.1
+purpose: Microblogging
+webApp: ✅
+windowsApp: ✅
+linuxApp: ✅
+macApp: ✅
+iphoneApp: ✅
+androidApp: ✅
+integratedWallet: ❌
+multipleAccounts: ❌
+eventRelays: 🟡
+relayList: ❌
+relayInfo: 
+json: ✅
+followHashtag: 
+localFeeds: 
+algorithmicFeeds: ✅
+rebroadcast: ✅
+machineTranslation: ❌
+pushNotification: ❌
+eventDeletion: 🟡
+zaps: ✅
+reactions: 🟡
+customEmoji: ❌
+microblogging: ✅
+dms: ✅
+chatrooms: ❌
+communities: ❌
+longform: ❌
+report: ✅
+mute: 🟡
+pins: ❌
+bookmarks: ❌
+badges: ❌
+search: ✅
+contentWarning: ❌
+subjectTagging: ❌
+livestreaming: ❌
+classifieds: 
+calendarEvents: 
+marketplaces: 
+walletconnect: 
+nostrconnect: 
+mnemonicSeeds: 
+proofOfWork: 
+labellingAndReviews: 

@@ -1,0 +1,49 @@
+client: 0xchat
+site: https://0xchat.com/
+repo: https://github.com/0xchat-app/0xchat-core
+latest: 1.1.4
+purpose: Chat
+webApp: ❌
+windowsApp: ❌
+linuxApp: ❌
+macApp: 🟡
+iphoneApp: ✅
+androidApp: ✅
+integratedWallet: ❌
+multipleAccounts: ❌
+eventRelays: 
+relayList: 
+relayInfo: 
+json: 
+followHashtag: 
+localFeeds: 
+algorithmicFeeds: 
+rebroadcast: 
+machineTranslation: 
+pushNotification: ✅
+eventDeletion: 
+zaps: 
+reactions: 
+customEmoji: 
+microblogging: ❌
+dms: ✅
+chatrooms: ✅
+communities: 
+longform: 
+report: 
+mute: 
+pins: 
+bookmarks: 
+badges: 
+search: 
+contentWarning: 
+subjectTagging: 
+livestreaming: 
+classifieds: 
+calendarEvents: 
+marketplaces: 
+walletconnect: 
+nostrconnect: 
+mnemonicSeeds: 
+proofOfWork: 
+labellingAndReviews: 

@@ -1,0 +1,49 @@
+client: Zapddit
+site: https://zapddit.com/
+repo: https://github.com/vivganes/zapddit
+latest: (2023-10-15)
+purpose: Communities
+webApp: ✅
+windowsApp: ❌
+linuxApp: ❌
+macApp: ❌
+iphoneApp: ❌
+androidApp: ❌
+integratedWallet: ❌
+multipleAccounts: ❌
+eventRelays: ❌
+relayList: 
+relayInfo: 
+json: 
+followHashtag: 
+localFeeds: 
+algorithmicFeeds: 
+rebroadcast: 
+machineTranslation: 
+pushNotification: 
+eventDeletion: 
+zaps: ✅
+reactions: 🟡
+customEmoji: ❌
+microblogging: ✅
+dms: ❌
+chatrooms: ❌
+communities: ✅
+longform: ❌
+report: ❌
+mute: ❌
+pins: ❌
+bookmarks: ❌
+badges: 
+search: 
+contentWarning: 
+subjectTagging: 
+livestreaming: 
+classifieds: 
+calendarEvents: 
+marketplaces: 
+walletconnect: 
+nostrconnect: 
+mnemonicSeeds: 
+proofOfWork: 
+labellingAndReviews: 
