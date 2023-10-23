@@ -4,7 +4,7 @@ layout: home
 
 Compendium of nostr clients and known features.
 
-Contribute updates on github: <https://github.com/nostorg/clients>
+Contribute on github: <{{ site.github.repository_url }}>
 
 <div class="bigtable">
 <table>
@@ -62,5 +62,7 @@ Any column with at least one 🟡 entry should have some criteria listed here.
 - <https://github.com/aljazceru/awesome-nostr>
 - <https://github.com/vishalxl/Nostr-Clients-Features-List>
 - [Nostr Client Comparison Sheet (Google Docs)](https://docs.google.com/spreadsheets/d/1GjfN_eMiEywqXfKFHZMw4rLnoQLBXYEyl2NCEtsCXWw/edit)
+- <https://nostr.info/resources/>
+- <https://nostr.com/clients>
 - <https://www.nostrapps.com/>
 - <https://nostrapp.link/>
