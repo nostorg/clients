@@ -7,121 +7,25 @@ Compendium of nostr clients and known features.
 Contribute updates on github: <https://github.com/nostorg/clients>
 
 <div class="bigtable">
-<h2>Combined Table</h2>
 <table>
   <thead>
     <tr>
-      <th>Client</th>
-      <th>Site</th>
-      <th>Repo</th>
-      <th>Latest Version</th>
-      <th>Purpose</th>
-      <th>Web App</th>
-      <th>Windows App</th>
-      <th>Linux App</th>
-      <th>Mac App</th>
-      <th>iPhone App</th>
-      <th>Android App</th>
-      <th>Integrated Wallet</th>
-      <th>Multiple Accounts</th>
-      <th>Event Relays</th>
-      <th>Relay List</th>
-      <th>Relay Info</th>
-      <th>JSON</th>
-      <th>Follow Hashtag</th>
-      <th>Local Feeds</th>
-      <th>Algorithmic Feeds</th>
-      <th>Rebroadcast</th>
-      <th>Machine Translation</th>
-      <th>Push Notification</th>
-      <th>Event Deletion</th>
-      <th>Zaps</th>
-      <th>Reactions</th>
-      <th>Custom Emoji</th>
-      <th>Microblogging</th>
-      <th>DMS</th>
-      <th>Chatrooms</th>
-      <th>Communities</th>
-      <th>Longform</th>
-      <th>Report</th>
-      <th>Mute</th>
-      <th>Pins</th>
-      <th>Bookmarks</th>
-      <th>Badges</th>
-      <th>Search</th>
-      <th>Content Warning</th>
-      <th>Subject Tagging</th>
-      <th>Livestreaming</th>
-      <th>Classifieds</th>
-      <th>Calendar Events</th>
-      <th>Marketplaces</th>
-      <th>WalletConnect</th>
-      <th>NostrConnect</th>
-      <th>Mnemonic Seeds</th>
-      <th>Proof of Work</th>
-      <th>Labelling and Reviews</th>
+      {% for feature in site.data.spec %}
+        <th>{{ feature[1] }}</th>
+      {% endfor %}
     </tr>
   </thead>
   <tbody>
-    {% for data_file in site.data.clients %}
-      <!-- The data_file object contains the name and the content -->
-      {% assign file_name = data_file[0] %}
-      {% assign file_content = data_file[1] %}
+    {% for client_hash in site.data.clients %}
+      {% assign client = client_hash[1] %}
         <tr>
-            <td>{{ file_content.client }}</td>
-            <td>{{ file_content.site }}</td>
-            <td>{{ file_content.repo }}</td>
-            <td>{{ file_content.latest }}</td>
-            <td>{{ file_content.purpose }}</td>
-            <td>{{ file_content.webApp }}</td>
-            <td>{{ file_content.windowsApp }}</td>
-            <td>{{ file_content.linuxApp }}</td>
-            <td>{{ file_content.macApp }}</td>
-            <td>{{ file_content.iphoneApp }}</td>
-            <td>{{ file_content.androidApp }}</td>
-            <td>{{ file_content.integratedWallet }}</td>
-            <td>{{ file_content.multipleAccounts }}</td>
-            <td>{{ file_content.eventRelays }}</td>
-            <td>{{ file_content.relayList }}</td>
-            <td>{{ file_content.relayInfo }}</td>
-            <td>{{ file_content.json }}</td>
-            <td>{{ file_content.followHashtag }}</td>
-            <td>{{ file_content.localFeeds }}</td>
-            <td>{{ file_content.algorithmicFeeds }}</td>
-            <td>{{ file_content.rebroadcast }}</td>
-            <td>{{ file_content.machineTranslation }}</td>
-            <td>{{ file_content.pushNotification }}</td>
-            <td>{{ file_content.eventDeletion }}</td>
-            <td>{{ file_content.zaps }}</td>
-            <td>{{ file_content.reactions }}</td>
-            <td>{{ file_content.customEmoji }}</td>
-            <td>{{ file_content.microblogging }}</td>
-            <td>{{ file_content.dms }}</td>
-            <td>{{ file_content.chatrooms }}</td>
-            <td>{{ file_content.communities }}</td>
-            <td>{{ file_content.longform }}</td>
-            <td>{{ file_content.report }}</td>
-            <td>{{ file_content.mute }}</td>
-            <td>{{ file_content.pins }}</td>
-            <td>{{ file_content.bookmarks }}</td>
-            <td>{{ file_content.badges }}</td>
-            <td>{{ file_content.search }}</td>
-            <td>{{ file_content.contentWarning }}</td>
-            <td>{{ file_content.subjectTagging }}</td>
-            <td>{{ file_content.livestreaming }}</td>
-            <td>{{ file_content.classifieds }}</td>
-            <td>{{ file_content.calendarEvents }}</td>
-            <td>{{ file_content.marketplaces }}</td>
-            <td>{{ file_content.walletconnect }}</td>
-            <td>{{ file_content.nostrconnect }}</td>
-            <td>{{ file_content.mnemonicSeeds }}</td>
-            <td>{{ file_content.proofOfWork }}</td>
-            <td>{{ file_content.labellingAndReviews }}</td>
+          {% for feature in client %}
+            <td>{{ feature[1] }}</td>
+          {% endfor %}
         </tr>
-      {% endfor %}
+    {% endfor %}
   </tbody>
 </table>
-
 </div>
 
 ## Legend
