@@ -1,49 +1,50 @@
 client: Nostros
-site: '#N/A'
+site: 
 repo: https://github.com/KoalaSat/nostros
 latest: 0.3.2.5
 purpose: Microblogging
-webApp: ❌
-windowsApp: ❌
-linuxApp: ❌
-macApp: ❌
-iphoneApp: ❌
-androidApp: ✅
-integratedWallet: ❌
-multipleAccounts: 
-eventRelays: 
-relayList: 
-relayInfo: 
-json: 
-followHashtag: 
-localFeeds: 
-algorithmicFeeds: 
-rebroadcast: 
-machineTranslation: 
-pushNotification: 
-eventDeletion: 
-zaps: ✅
-reactions: 
-customEmoji: 
-microblogging: ✅
-dms: ✅
-chatrooms: ❌
-communities: 
-longform: 
-report: 
-mute: 
-pins: 
-bookmarks: ✅
-badges: 
-search: 
-contentWarning: 
-subjectTagging: 
-livestreaming: 
-classifieds: 
-calendarEvents: 
-marketplaces: 
-walletconnect: 
-nostrconnect: 
-mnemonicSeeds: 
-proofOfWork: 
-labellingAndReviews: 
+features:
+  webApp: ❌
+  windowsApp: ❌
+  linuxApp: ❌
+  macApp: ❌
+  iphoneApp: ❌
+  androidApp: ✅
+  integratedWallet: ❌
+  multipleAccounts: 
+  eventRelays: 
+  relayList: 
+  relayInfo: 
+  json: 
+  followHashtag: 
+  localFeeds: 
+  algorithmicFeeds: 
+  rebroadcast: 
+  machineTranslation: 
+  pushNotification: 
+  eventDeletion: 
+  zaps: ✅
+  reactions: 
+  customEmoji: 
+  microblogging: ✅
+  dms: ✅
+  chatrooms: ❌
+  communities: 
+  longform: 
+  report: 
+  mute: 
+  pins: 
+  bookmarks: ✅
+  badges: 
+  search: 
+  contentWarning: 
+  subjectTagging: 
+  livestreaming: 
+  classifieds: 
+  calendarEvents: 
+  marketplaces: 
+  walletconnect: 
+  nostrconnect: 
+  mnemonicSeeds: 
+  proofOfWork: 
+  labellingAndReviews: 

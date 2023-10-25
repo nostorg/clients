@@ -1,49 +1,50 @@
 client: Plebstr
 site: https://plebstr.com/
-repo: '#N/A'
+repo: 
 latest: 0.7.6 (56)
 purpose: Microblogging
-webApp: ❌
-windowsApp: ❌
-linuxApp: ❌
-macApp: 🟡
-iphoneApp: ✅
-androidApp: ✅
-integratedWallet: ❌
-multipleAccounts: ❌
-eventRelays: ❌
-relayList: 🟡
-relayInfo: 
-json: 
-followHashtag: 
-localFeeds: 
-algorithmicFeeds: 
-rebroadcast: 
-machineTranslation: ❌
-pushNotification: ❌
-eventDeletion: ❌
-zaps: 🟡
-reactions: 🟡
-customEmoji: ❌
-microblogging: ✅
-dms: ✅
-chatrooms: ❌
-communities: ❌
-longform: 
-report: ✅
-mute: 🟡
-pins: ❌
-bookmarks: ❌
-badges: ❌
-search: 
-contentWarning: 
-subjectTagging: 
-livestreaming: ❌
-classifieds: 
-calendarEvents: 
-marketplaces: 
-walletconnect: 
-nostrconnect: 
-mnemonicSeeds: 
-proofOfWork: 
-labellingAndReviews: 
+features:
+  webApp: ❌
+  windowsApp: ❌
+  linuxApp: ❌
+  macApp: 🟡
+  iphoneApp: ✅
+  androidApp: ✅
+  integratedWallet: ❌
+  multipleAccounts: ❌
+  eventRelays: ❌
+  relayList: 🟡
+  relayInfo: 
+  json: 
+  followHashtag: 
+  localFeeds: 
+  algorithmicFeeds: 
+  rebroadcast: 
+  machineTranslation: ❌
+  pushNotification: ❌
+  eventDeletion: ❌
+  zaps: 🟡
+  reactions: 🟡
+  customEmoji: ❌
+  microblogging: ✅
+  dms: ✅
+  chatrooms: ❌
+  communities: ❌
+  longform: 
+  report: ✅
+  mute: 🟡
+  pins: ❌
+  bookmarks: ❌
+  badges: ❌
+  search: 
+  contentWarning: 
+  subjectTagging: 
+  livestreaming: ❌
+  classifieds: 
+  calendarEvents: 
+  marketplaces: 
+  walletconnect: 
+  nostrconnect: 
+  mnemonicSeeds: 
+  proofOfWork: 
+  labellingAndReviews: 

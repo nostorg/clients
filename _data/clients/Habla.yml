@@ -3,47 +3,48 @@ site: https://habla.news/
 repo: https://github.com/verbiricha/habla.news
 latest: (2023-10-15)
 purpose: Articles
-webApp: ✅
-windowsApp: ❌
-linuxApp: ❌
-macApp: ❌
-iphoneApp: ❌
-androidApp: ❌
-integratedWallet: ❌
-multipleAccounts: ❌
-eventRelays: 
-relayList: 
-relayInfo: 
-json: 
-followHashtag: 
-localFeeds: ✅
-algorithmicFeeds: ✅
-rebroadcast: 
-machineTranslation: 
-pushNotification: 
-eventDeletion: ❌
-zaps: 🟡
-reactions: ❌
-customEmoji: ❌
-microblogging: ✅
-dms: ❌
-chatrooms: ❌
-communities: 🟡
-longform: ✅
-report: ❌
-mute: ❌
-pins: ❌
-bookmarks: ❌
-badges: ❌
-search: 🟡
-contentWarning: 
-subjectTagging: 
-livestreaming: ❌
-classifieds: 
-calendarEvents: 
-marketplaces: 
-walletconnect: 
-nostrconnect: 
-mnemonicSeeds: 
-proofOfWork: 
-labellingAndReviews: 
+features:
+  webApp: ✅
+  windowsApp: ❌
+  linuxApp: ❌
+  macApp: ❌
+  iphoneApp: ❌
+  androidApp: ❌
+  integratedWallet: ❌
+  multipleAccounts: ❌
+  eventRelays: 
+  relayList: 
+  relayInfo: 
+  json: 
+  followHashtag: 
+  localFeeds: ✅
+  algorithmicFeeds: ✅
+  rebroadcast: 
+  machineTranslation: 
+  pushNotification: 
+  eventDeletion: ❌
+  zaps: 🟡
+  reactions: ❌
+  customEmoji: ❌
+  microblogging: ✅
+  dms: ❌
+  chatrooms: ❌
+  communities: 🟡
+  longform: ✅
+  report: ❌
+  mute: ❌
+  pins: ❌
+  bookmarks: ❌
+  badges: ❌
+  search: 🟡
+  contentWarning: 
+  subjectTagging: 
+  livestreaming: ❌
+  classifieds: 
+  calendarEvents: 
+  marketplaces: 
+  walletconnect: 
+  nostrconnect: 
+  mnemonicSeeds: 
+  proofOfWork: 
+  labellingAndReviews: 
