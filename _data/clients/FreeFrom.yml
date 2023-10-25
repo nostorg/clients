@@ -4,7 +4,7 @@ repo:
 latest: 1.1.5
 purpose: Microblogging
 features:
-  webApp: 🟡
+  webApp: ❌
   windowsApp: ❌
   linuxApp: ❌
   macApp: ❌

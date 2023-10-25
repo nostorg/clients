@@ -8,8 +8,8 @@ features:
   windowsApp: ❌
   linuxApp: ❌
   macApp: ❌
-  iosApp: ❌
-  androidApp: ❌
+  iosApp: ✅
+  androidApp: '?'
   integratedWallet: ❌
   multipleAccounts: '?'
   eventRelays: ❌
