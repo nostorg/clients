@@ -2,7 +2,7 @@ webApp: Web App
 windowsApp: Windows App
 linuxApp: Linux App
 macApp: Mac App
-iphoneApp: iPhone App
+iosApp: iOS App
 androidApp: Android App
 integratedWallet: Integrated Wallet
 multipleAccounts: Multiple Accounts
