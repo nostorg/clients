@@ -8,19 +8,47 @@ Contribute on github: <{{ site.github.repository_url }}>
 
 <div class="bigtable">
 <table>
-  {% for row in site.data.clients %}
-    {% if forloop.first %}
+  <thead>
     <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+      <!-- Basic Info -->
+      <th>Client \ Feature (NIP) [Kind]</th>
+      <th>Source Repository</th>
+      <th>Last Reviewed Version/Date</th>
+      <th>Primary Purpose</th>
+      <!-- Features -->
+      {% for feature in site.data.features %}
+      <th>{{ feature[1] }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for client_order in site.data.order %}
+    {% for client_hash in site.data.clients %}
+    {% if client_hash[0] == client_order %}
+    {% assign client = client_hash[1] %}
+    <tr>
+      <!-- Basic Info -->
+      {% if client.site %}
+      <td><a href="{{ client.site }}">{{ client.alias }}</a></td>
+      {% else %}
+      <td>{{ client.alias }}</td>
+      {% endif %}
+      <td><a href="{{ client.repo }}">{{ client.repo | split: "://" | last | split: "/" | first }}</a></td>
+      <td>{{ client.latest }}</td>
+      <td>{{ client.purpose }}</td>
+      <!-- Features -->
+      {% for feature_head in site.data.features %}
+      {% for feature_client in client.features %}
+      {% if feature_client[0] == feature_head[0] %}
+      <td>{{ feature_client[1] }}</td>
+      {% endif %}
+      {% endfor %}
       {% endfor %}
     </tr>
     {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
+    {% endfor %}
+    {% endfor %}
+  </tbody>
 </table>
 </div>
 

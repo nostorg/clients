@@ -1,0 +1,50 @@
+alias: Current
+site: https://app.getcurrent.io/
+repo: https://github.com/starbackr-com/current
+latest: 0.1.4 (3)
+purpose: Microblogging
+features:
+  webApp: ❌
+  windowsApp: ❌
+  linuxApp: ❌
+  macApp: 🟡
+  iosApp: ✅
+  androidApp: ✅
+  integratedWallet: ✅⚡
+  multipleAccounts: ❌
+  eventRelays: ❌
+  relayList: ❌
+  relayInfo: ❌
+  json: ❌
+  followHashtag: ❌
+  localFeeds: ❌
+  algorithmicFeeds: ✅
+  rebroadcast: ❌
+  machineTranslation: ❌
+  pushNotification: ✅⚡
+  eventDeletion: ❌
+  zaps: ✅⚡
+  reactions: 🟡
+  customEmoji: ❌
+  microblogging: ✅
+  dms: ✅
+  chatrooms: ❌
+  communities: ❌
+  longform: 
+  report: ✅
+  mute: 🟡
+  pins: ❌
+  bookmarks: ❌
+  badges: ✅
+  search: 🟡
+  contentWarning: 
+  subjectTagging: 
+  livestreaming: ❌
+  classifieds: 
+  calendarEvents: 
+  marketplaces: 
+  walletconnect: 
+  nostrconnect: 
+  mnemonicSeeds: ✅
+  proofOfWork: 
+  labellingAndReviews: 

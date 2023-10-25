@@ -13,3 +13,5 @@ minima:
 
 exclude:
   - README.md
+  - vendor
+

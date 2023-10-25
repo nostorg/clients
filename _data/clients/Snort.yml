@@ -1,0 +1,50 @@
+alias: Snort
+site: https://snort.social/
+repo: https://git.v0l.io/Kieran/snort
+latest: 0.1.12
+purpose: Microblogging
+features:
+  webApp: ✅
+  windowsApp: ❌
+  linuxApp: ❌
+  macApp: ❌
+  iosApp: ❌
+  androidApp: ❌
+  integratedWallet: ❌
+  multipleAccounts: '?⚡'
+  eventRelays: ❌
+  relayList: 🟡
+  relayInfo: ✅
+  json: 
+  followHashtag: 
+  localFeeds: ✅
+  algorithmicFeeds: ✅
+  rebroadcast: 
+  machineTranslation: '?⚡'
+  pushNotification: 
+  eventDeletion: 🟡
+  zaps: ✅
+  reactions: 🟡
+  customEmoji: ❌
+  microblogging: ✅
+  dms: ✅
+  chatrooms: ❌
+  communities: ❌
+  longform: ❌
+  report: ❌
+  mute: 🟡
+  pins: 🟡
+  bookmarks: 🟡
+  badges: ✅
+  search: ✅
+  contentWarning: ✅
+  subjectTagging: ❌
+  livestreaming: '?'
+  classifieds: 
+  calendarEvents: 
+  marketplaces: 
+  walletconnect: 
+  nostrconnect: 
+  mnemonicSeeds: 
+  proofOfWork: 
+  labellingAndReviews: 

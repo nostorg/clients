@@ -1,0 +1,44 @@
+webApp: Web App
+windowsApp: Windows App
+linuxApp: Linux App
+macApp: Mac App
+iosApp: iOS App
+androidApp: Android App
+integratedWallet: Integrated Wallet
+multipleAccounts: Multiple Accounts
+eventRelays: Event Relays
+relayList: Relay List (65)
+relayInfo: Relay Info (11)
+json: Access JSON
+followHashtag: Follow Hashtags
+localFeeds: Local Feeds
+algorithmicFeeds: Algorithmic Feeds
+rebroadcast: Rebroadcast
+machineTranslation: Machine Translation
+pushNotification: Push Notification
+eventDeletion: Event Deletion (9)
+zaps: Zaps (57)
+reactions: Reactions (25)
+customEmoji: Custom Emoji (30)
+microblogging: Microblogging [1]
+dms: Direct Message (4)
+chatrooms: Chat Rooms (28)
+communities: Communities (172)
+longform: Long-form Content (23)
+report: Report (56)
+mute: Mute (51) [10000]
+pins: Pins (51) [10001]
+bookmarks: Bookmarks (51) [30001]
+badges: Badges (58)
+search: Search (50)
+contentWarning: Content Warning (36)
+subjectTagging: Subject Tag (14)
+livestreaming: Live Streaming (53)
+classifieds: Classifieds (99)
+calendarEvents: Calendar Events (52)
+marketplaces: Marketplaces (15)
+walletconnect: Wallet Connect (47)
+nostrconnect: Nostr Connect (46)
+mnemonicSeeds: Mnemonic Seed (6)
+proofOfWork: Proof of Work (13)
+labellingAndReviews: Labeling & Reviews (32)
