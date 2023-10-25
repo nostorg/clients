@@ -9,13 +9,14 @@ Contribute on github: <{{ site.github.repository_url }}>
 <div class="bigtable">
 <table>
   <thead>
-    {% assign head = site.data.head %}
     <tr>
-      <th>{{ head.client }}</th>
-      <th>{{ head.repo }}</th>
-      <th>{{ head.latest }}</th>
-      <th>{{ head.purpose }}</th>
-      {% for feature in head.features %}
+      <!-- Basic Info -->
+      <th>Client</th>
+      <th>Repo</th>
+      <th>Latest Version</th>
+      <th>Purpose</th>
+      <!-- Features -->
+      {% for feature in site.data.features %}
       <th>{{ feature[1] }}</th>
       {% endfor %}
     </tr>
@@ -26,6 +27,7 @@ Contribute on github: <{{ site.github.repository_url }}>
     {% if client_hash[0] == client_order %}
     {% assign client = client_hash[1] %}
     <tr>
+      <!-- Basic Info -->
       {% if client.site %}
       <td><a href="{{ client.site }}">{{ client.client }}</a></td>
       {% else %}
@@ -34,7 +36,8 @@ Contribute on github: <{{ site.github.repository_url }}>
       <td><a href="{{ client.repo }}">{{ client.repo | split: "://" | last | split: "/" | first }}</a></td>
       <td>{{ client.latest }}</td>
       <td>{{ client.purpose }}</td>
-      {% for feature_head in site.data.head.features %}
+      <!-- Features -->
+      {% for feature_head in site.data.features %}
       {% for feature_client in client.features %}
       {% if feature_client[0] == feature_head[0] %}
       <td>{{ feature_client[1] }}</td>
