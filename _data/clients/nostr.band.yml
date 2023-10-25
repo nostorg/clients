@@ -1,4 +1,4 @@
-client: nostr.band
+alias: nostr.band
 site: https://nostr.band/
 repo: https://github.com/nostrband/nostr-band-app
 latest: '?'

@@ -1,4 +1,4 @@
-client: Gossip
+alias: Gossip
 site: 
 repo: https://github.com/mikedilger/gossip
 latest: 0.8.1

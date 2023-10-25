@@ -29,9 +29,9 @@ Contribute on github: <{{ site.github.repository_url }}>
     <tr>
       <!-- Basic Info -->
       {% if client.site %}
-      <td><a href="{{ client.site }}">{{ client.client }}</a></td>
+      <td><a href="{{ client.site }}">{{ client.alias }}</a></td>
       {% else %}
-      <td>{{ client.client }}</td>
+      <td>{{ client.alias }}</td>
       {% endif %}
       <td><a href="{{ client.repo }}">{{ client.repo | split: "://" | last | split: "/" | first }}</a></td>
       <td>{{ client.latest }}</td>

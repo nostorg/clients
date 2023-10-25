@@ -1,4 +1,4 @@
-client: zap.stream
+alias: zap.stream
 site: https://zap.stream/
 repo: 
 latest: '?'

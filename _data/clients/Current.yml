@@ -1,4 +1,4 @@
-client: Current
+alias: Current
 site: https://app.getcurrent.io/
 repo: https://github.com/starbackr-com/current
 latest: 0.1.4 (3)

@@ -1,4 +1,4 @@
-client: Rabbit
+alias: Rabbit
 site: https://syusui-s.github.io/rabbit/
 repo: https://github.com/syusui-s/rabbit
 latest: (2023-10-16)

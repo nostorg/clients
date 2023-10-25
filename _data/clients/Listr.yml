@@ -1,4 +1,4 @@
-client: Listr
+alias: Listr
 site: https://listr.lol/
 repo: https://github.com/erskingardner/listr
 latest: 2.0.0

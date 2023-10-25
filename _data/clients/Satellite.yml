@@ -1,4 +1,4 @@
-client: Satellite
+alias: Satellite
 site: https://satellite.earth/
 repo: https://github.com/lovvtide/satellite-web
 latest: (2023-10-15)

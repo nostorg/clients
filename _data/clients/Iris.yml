@@ -1,4 +1,4 @@
-client: Iris
+alias: Iris
 site: https://iris.to/
 repo: https://git.v0l.io/mmalmi/snort
 latest: '?'

@@ -1,4 +1,4 @@
-client: 0xchat
+alias: 0xchat
 site: https://0xchat.com/
 repo: https://github.com/0xchat-app/0xchat-core
 latest: 1.1.4

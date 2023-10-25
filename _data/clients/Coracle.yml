@@ -1,4 +1,4 @@
-client: Coracle
+alias: Coracle
 site: https://coracle.social/
 repo: https://github.com/coracle-social/coracle
 latest: 0.3.10

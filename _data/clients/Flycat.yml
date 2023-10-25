@@ -1,4 +1,4 @@
-client: Flycat
+alias: Flycat
 site: https://flycat.club/
 repo: https://github.com/digi-monkey/flycat-web
 latest: 0.2.0

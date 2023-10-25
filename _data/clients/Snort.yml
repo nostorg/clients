@@ -1,4 +1,4 @@
-client: Snort
+alias: Snort
 site: https://snort.social/
 repo: https://git.v0l.io/Kieran/snort
 latest: 0.1.12
