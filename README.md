@@ -4,19 +4,12 @@ View the deployed webpage [here](https://nostorg.github.io/clients/) or via the 
 
 ## Contributing
 
-Edit the landing page [here](index.md).
+Where to make changes:
 
-Edit the clients table/CSV [here](_data/clients.csv).
-
-Workspace settings are included for use with the [Edit csv](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) extension for VS Code.
-
-For `git diff` on the CSV file, try [daff](https://github.com/paulfitz/daff):
-
-```bash
-pipx install daff
-daff git csv
-git diff
-```
+- [landing page](index.md)
+- [feature columns](_data/features.yml)
+- [client row order](_data/order.yml)
+- [client info & features](_data/clients/)
 
 Serve locally for testing:
 
