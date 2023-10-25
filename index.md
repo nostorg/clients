@@ -11,10 +11,10 @@ Contribute on github: <{{ site.github.repository_url }}>
   <thead>
     <tr>
       <!-- Basic Info -->
-      <th>Client</th>
-      <th>Repo</th>
-      <th>Latest Version</th>
-      <th>Purpose</th>
+      <th>Client \ Feature (NIP) [Kind]</th>
+      <th>Source Repository</th>
+      <th>Last Reviewed Version/Date</th>
+      <th>Primary Purpose</th>
       <!-- Features -->
       {% for feature in site.data.features %}
       <th>{{ feature[1] }}</th>

@@ -7,38 +7,38 @@ androidApp: Android App
 integratedWallet: Integrated Wallet
 multipleAccounts: Multiple Accounts
 eventRelays: Event Relays
-relayList: Relay List
-relayInfo: Relay Info
-json: JSON
-followHashtag: Follow Hashtag
+relayList: Relay List (65)
+relayInfo: Relay Info (11)
+json: Access JSON
+followHashtag: Follow Hashtags
 localFeeds: Local Feeds
 algorithmicFeeds: Algorithmic Feeds
 rebroadcast: Rebroadcast
 machineTranslation: Machine Translation
 pushNotification: Push Notification
-eventDeletion: Event Deletion
-zaps: Zaps
-reactions: Reactions
-customEmoji: Custom Emoji
-microblogging: Microblogging
-dms: DMS
-chatrooms: Chatrooms
-communities: Communities
-longform: Longform
-report: Report
-mute: Mute
-pins: Pins
-bookmarks: Bookmarks
-badges: Badges
-search: Search
-contentWarning: Content Warning
-subjectTagging: Subject Tagging
-livestreaming: Livestreaming
-classifieds: Classifieds
-calendarEvents: Calendar Events
-marketplaces: Marketplaces
-walletconnect: WalletConnect
-nostrconnect: NostrConnect
-mnemonicSeeds: Mnemonic Seeds
-proofOfWork: Proof of Work
-labellingAndReviews: Labelling and Reviews
+eventDeletion: Event Deletion (9)
+zaps: Zaps (57)
+reactions: Reactions (25)
+customEmoji: Custom Emoji (30)
+microblogging: Microblogging [1]
+dms: Direct Message (4)
+chatrooms: Chat Rooms (28)
+communities: Communities (172)
+longform: Long-form Content (23)
+report: Report (56)
+mute: Mute (51) [10000]
+pins: Pins (51) [10001]
+bookmarks: Bookmarks (51) [30001]
+badges: Badges (58)
+search: Search (50)
+contentWarning: Content Warning (36)
+subjectTagging: Subject Tag (14)
+livestreaming: Live Streaming (53)
+classifieds: Classifieds (99)
+calendarEvents: Calendar Events (52)
+marketplaces: Marketplaces (15)
+walletconnect: Wallet Connect (47)
+nostrconnect: Nostr Connect (46)
+mnemonicSeeds: Mnemonic Seed (6)
+proofOfWork: Proof of Work (13)
+labellingAndReviews: Labeling & Reviews (32)
