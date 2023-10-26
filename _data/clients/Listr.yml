@@ -40,6 +40,7 @@ features:
   contentWarning: 
   subjectTagging: 
   livestreaming: 
+  liveStatus: 
   classifieds: 
   calendarEvents: 
   marketplaces: 
