@@ -38,11 +38,13 @@ Contribute on github: <{{ site.github.repository_url }}>
       <td>{{ client.purpose }}</td>
       <!-- Features -->
       {% for feature_head in site.data.features %}
+      <td>
       {% for feature_client in client.features %}
       {% if feature_client[0] == feature_head[0] %}
-      <td>{{ feature_client[1] }}</td>
+      {{ feature_client[1] }}
       {% endif %}
       {% endfor %}
+      </td>
       {% endfor %}
     </tr>
     {% endif %}
