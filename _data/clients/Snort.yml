@@ -27,7 +27,7 @@ features:
   reactions: 🟡
   customEmoji: ❌
   microblogging: ✅
-  dms: ✅
+  directMessage: ✅
   chatrooms: ❌
   communities: ❌
   longform: ❌
@@ -38,13 +38,13 @@ features:
   badges: ✅
   search: ✅
   contentWarning: ✅
-  subjectTagging: ❌
-  livestreaming: '?'
+  subjectTag: ❌
+  liveStreaming: '?'
   classifieds: 
   calendarEvents: 
   marketplaces: 
-  walletconnect: 
-  nostrconnect: 
-  mnemonicSeeds: 
+  walletConnect: 
+  nostrConnect: 
+  mnemonicSeed: 
   proofOfWork: 
-  labellingAndReviews: 
+  relayReviews: 
