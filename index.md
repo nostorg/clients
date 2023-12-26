@@ -33,7 +33,10 @@ Contribute on github: <{{ site.github.repository_url }}>
       {% else %}
       <td>{{ client.alias }}</td>
       {% endif %}
-      <td><a href="{{ client.repo }}">{{ client.repo | split: "://" | last | split: "/" | first }}</a></td>
+      <td><a href="{{ client.repo }}">
+        <img alt="" src="https://img.shields.io/github/last-commit/{{ client.repo | split: '/' | slice: -2, 2 | join: '/' }}/main">
+        <img alt="" src="https://img.shields.io/github/last-commit/{{ client.repo | split: '/' | slice: -2, 2 | join: '/' }}/master">
+        </a></td>
       <td>{{ client.latest }}</td>
       <td>{{ client.purpose }}</td>
       <!-- Features -->
