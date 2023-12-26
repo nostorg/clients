@@ -13,10 +13,18 @@ Where to make changes:
 
 Serve locally for testing:
 
-```bash
+```sh
 brew install asdf
 asdf plugin add ruby
 asdf install # install ruby from .tool-versions
 asdf exec bundle install # install from gemfile
 asdf exec jekyll serve
+```
+
+Or installing the Gems locally with bundle already available:
+
+```sh
+bundle config set path 'vendor/bundle'
+bundle install
+bundle exec jekyll serve
 ```
