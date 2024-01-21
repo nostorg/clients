@@ -1,7 +1,7 @@
 alias: Rabbit
-site: https://syusui-s.github.io/rabbit/
+site: https://rabbit.syusui.net/
 repo: https://github.com/syusui-s/rabbit
-latest: (2023-10-16)
+latest: (2024-01-21)
 purpose: Microblogging
 features:
   webApp: ✅
@@ -21,11 +21,11 @@ features:
   algorithmicFeeds: ❌
   rebroadcast: ❌
   machineTranslation: ❌
-  pushNotification: 
+  pushNotification: ❌
   eventDeletion: 🟡
-  zaps: ❌
+  zaps: ✅
   reactions: ✅
-  customEmoji: ❌
+  customEmoji: ✅
   microblogging: ✅
   directMessage: ❌
   chatrooms: ❌
@@ -37,7 +37,7 @@ features:
   bookmarks: ❌
   badges: ❌
   search: 🟡
-  contentWarning: 
+  contentWarning: ✅
   subjectTag: 
   liveStreaming: 
   liveStatus: 
