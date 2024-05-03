@@ -1,0 +1,51 @@
+alias: Voyage
+site: 
+repo: https://github.com/dluvian/voyage
+latest: 0.2.0
+purpose: Microblogging
+features:
+  webApp: ❌
+  windowsApp: ❌
+  linuxApp: ❌
+  macApp: ❌
+  iosApp: ❌
+  androidApp: ✅
+  integratedWallet: ❌
+  multipleAccounts: 🟡
+  eventRelays: ❌
+  relayList: ✅
+  relayInfo: ❌
+  json: ❌
+  followHashtag: ✅
+  localFeeds: ❌
+  algorithmicFeeds: ❌
+  rebroadcast: ❌
+  machineTranslation: ❌
+  pushNotification: ❌
+  eventDeletion: ✅
+  zaps: ❌
+  reactions: ✅
+  customEmoji: ❌
+  microblogging: ✅
+  directMessage: ❌
+  chatrooms: ❌
+  communities: ❌
+  longform: ❌
+  report: ❌
+  mute: ❌
+  pins: ❌
+  bookmarks: ❌
+  badges: ❌
+  search: ❌
+  contentWarning: ❌
+  subjectTag: ✅
+  liveStreaming: ❌
+  liveStatus: ❌
+  classifieds: ❌
+  calendarEvents: ❌
+  marketplaces: ❌
+  walletConnect: ❌
+  nostrConnect: ❌
+  mnemonicSeed: 🟡
+  proofOfWork: ❌
+  relayReviews: ❌
