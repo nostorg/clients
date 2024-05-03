@@ -45,7 +45,7 @@ features:
   calendarEvents: 
   marketplaces: 
   walletConnect: 
-  nostrConnect: 
+  nostrConnect: 🟡
   mnemonicSeed: 
   proofOfWork: ✅
   relayReviews: 
