@@ -1,7 +1,7 @@
 alias: Voyage
 site: 
 repo: https://github.com/dluvian/voyage
-latest: 0.2.0
+latest: 0.4.0
 purpose: Microblogging
 features:
   webApp: ❌
@@ -14,7 +14,7 @@ features:
   multipleAccounts: 🟡
   eventRelays: ❌
   relayList: ✅
-  relayInfo: ❌
+  relayInfo: ✅
   json: ❌
   followHashtag: ✅
   localFeeds: ❌
